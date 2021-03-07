@@ -1,0 +1,10 @@
+# java.util.Map
+
+### Map
+
+- Entrada de chave e valor
+- Permite valores repetidos, mas não permite repetição de chave.
+- Permite adição, busca por chave ou valor, atualização, remoção e navegação.
+- Pode ser ordenado.
+
+### Códigos / ... Cap. 04.java
